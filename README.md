@@ -1,0 +1,2 @@
+# ionic2-setInterval-setTimeout-question
+在ionic2中使用setTimeout、setInterval时候遇到的问题
